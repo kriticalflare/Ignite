@@ -7,3 +7,4 @@ Made this following [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXs
 - [React-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Styled Components](https://styled-components.com/)
+- [Redux](https://redux.js.org/)
