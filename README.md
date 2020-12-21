@@ -6,4 +6,4 @@ Made this following [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXs
 - [React](https://reactjs.org/)
 - [React-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [Framer Motion](https://www.framer.com/motion/)
-- [https://styled-components.com/](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- [Styled Components](https://styled-components.com/)
